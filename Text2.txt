@@ -1,0 +1,4 @@
+Github facilite l’utilisation car :
+
+Il fournit une interface visuelle pour gérer localement vos projets avec les contrôles de version (projet individuel)
+Il permet, si vous créez un compte sur GitHub.com, que vos projets soient sur le web (projet collaboratif) avec des contrôles de versions.
